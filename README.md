@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="./src/assets/Plant.gif"/>
+<img src="./assets/Plant.gif"/>
 </p>
 
 ## Objetivo
