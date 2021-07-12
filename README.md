@@ -5,13 +5,13 @@
   <a href="./LICENSE">
   <img src="https://img.shields.io/github/license/leandross86/PlantManager_NLW5_React-Native"/>
   </a>
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/leandross86/PlantManager_NLW5_React-Native" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/leandross86/PlantManager_NLW5_React-Native" />
-  <img alt="" src="https://img.shields.io/github/repo-size/leandross86/PlantManager_NLW5_React-Native" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Gabriel9Stresser/NLW5_05_PlantManager" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Gabriel9Stresser/NLW5_05_PlantManager" />
+  <img alt="" src="https://img.shields.io/github/repo-size/Gabriel9Stresser/NLW5_05_PlantManager" />
   <img alt="Standard - JavaScript Style Guide" src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/leandross86/PlantManager_NLW5_React-Native" />
-  <img alt="Github Star" src="https://img.shields.io/github/stars/leandross86/PlantManager_NLW5_React-Native?style=social" />
-  <img alt="Github Forks" src="https://img.shields.io/github/forks/leandross86/PlantManager_NLW5_React-Native?style=social" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Gabriel9Stresser/NLW5_05_PlantManagere" />
+  <img alt="Github Star" src="https://img.shields.io/github/stars/Gabriel9Stresser/NLW5_05_PlantManager?style=social" />
+  <img alt="Github Forks" src="https://img.shields.io/github/forks/Gabriel9Stresser/NLW5_05_PlantManager?style=social" />
 </p>
 
 <p align="center">
@@ -88,5 +88,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <br>
 <p align="center">
-Desenvolvido com ❤️ por Leandro Souza
+Desenvolvido com ❤️ por Gabriel Stresser
 </p>
